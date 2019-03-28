@@ -32,7 +32,8 @@ body{
     height: 100%;
     font-size: 15px;
     line-height: 1.7;
-    color: #333333;
+    background: #424242;
+    color: #ffffff;
     font-weight: 400;
 }
 
@@ -42,7 +43,7 @@ h3,
 h4,
 h5,
 h6{
-    color: #333333;
+    color: #ffffff;
     font-weight: 600;
 }
 
