@@ -457,14 +457,14 @@ canvas{
 .about-text-left h2 {
     font-weight: 700;
     font-size: 36px;
-    color: #ffffff;
+    color: #212121;
     line-height: 1;
     text-align: right;
     margin-bottom: 5px;
 }
 
 .about-text-left h3 {
-    color: #ffffff;
+    color: #212121;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -475,7 +475,7 @@ canvas{
 .about-text-left p{
     text-align: right;
     font-size: 13px;
-    color: #fff;
+    color: #222;
     margin-bottom: 50px;
 }
 
@@ -500,7 +500,7 @@ canvas{
 .about-text-left p {
     text-align: right;
     font-size: 15px;
-    color: #fff;
+    color: #222;
     margin-bottom: 50px;
 }
 
@@ -531,7 +531,7 @@ canvas{
 .skillbar-bar .skillbar-child {
     width: 0;
     height: 100%;
-    background-color: #72b626;
+    background-color: #606060;
     -webkit-transition-property: width, background-color;
     -o-transition-property: width, background-color;
     transition-property: width, background-color
