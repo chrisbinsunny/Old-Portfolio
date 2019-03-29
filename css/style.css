@@ -32,16 +32,7 @@ body{
     height: 100%;
     font-size: 15px;
     line-height: 1.7;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background: #616161;
-    color: #ffffff;
-=======
-    color: #333333;
->>>>>>> parent of c9ffeb4... Update style.css
-=======
-    color: #333333;
->>>>>>> parent of c9ffeb4... Update style.css
+    color: #212121;
     font-weight: 400;
 }
 
@@ -51,7 +42,7 @@ h3,
 h4,
 h5,
 h6{
-    color: #333333;
+    color: #ffffff;
     font-weight: 600;
 }
 
@@ -457,14 +448,14 @@ canvas{
 .about-text-left h2 {
     font-weight: 700;
     font-size: 36px;
-    color: #212121;
+    color: #ffffff;
     line-height: 1;
     text-align: right;
     margin-bottom: 5px;
 }
 
 .about-text-left h3 {
-    color: #212121;
+    color: #ffffff;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -475,7 +466,7 @@ canvas{
 .about-text-left p{
     text-align: right;
     font-size: 13px;
-    color: #222;
+    color: #fff;
     margin-bottom: 50px;
 }
 
@@ -500,7 +491,7 @@ canvas{
 .about-text-left p {
     text-align: right;
     font-size: 15px;
-    color: #222;
+    color: #fff;
     margin-bottom: 50px;
 }
 
@@ -531,7 +522,7 @@ canvas{
 .skillbar-bar .skillbar-child {
     width: 0;
     height: 100%;
-    background-color: #606060;
+    background-color: #72b626;
     -webkit-transition-property: width, background-color;
     -o-transition-property: width, background-color;
     transition-property: width, background-color
@@ -542,7 +533,7 @@ canvas{
 /*---------------7. Services area Starts--------------*/
 
 .services-area {
-	background: #424242;
+	background: #F3F4F3;
 }
 
 .services-icon i {
