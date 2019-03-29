@@ -32,8 +32,12 @@ body{
     height: 100%;
     font-size: 15px;
     line-height: 1.7;
+<<<<<<< HEAD
     background: #616161;
     color: #ffffff;
+=======
+    color: #333333;
+>>>>>>> parent of c9ffeb4... Update style.css
     font-weight: 400;
 }
 
@@ -43,7 +47,7 @@ h3,
 h4,
 h5,
 h6{
-    color: #ffffff;
+    color: #333333;
     font-weight: 600;
 }
 
