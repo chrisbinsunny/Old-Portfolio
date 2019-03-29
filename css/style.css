@@ -32,7 +32,7 @@ body{
     height: 100%;
     font-size: 15px;
     line-height: 1.7;
-    background: #424242;
+    background: #616161;
     color: #ffffff;
     font-weight: 400;
 }
@@ -534,7 +534,7 @@ canvas{
 /*---------------7. Services area Starts--------------*/
 
 .services-area {
-	background: #F3F4F3;
+	background: #424242;
 }
 
 .services-icon i {
