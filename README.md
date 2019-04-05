@@ -1,4 +1,4 @@
-# chrisbinsunnyal.github.io
+# chrisbinsunny.github.io
 Personal Portfolio
 
 This Repo is created to handle my personal portfolio. 
