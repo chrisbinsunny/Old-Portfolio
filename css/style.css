@@ -973,7 +973,13 @@ canvas{
 .footer-area {
     background: #232323;
     color: #ffffff;
-    padding: 30px 0;
+    padding: 2.5em 0;
+    overflow: auto;
+    margin :0 auto;
+    width: 100%;
+    align-content: center;
+    position: relative;
+    top: 4em;
 }
 
 /*--------------- Footer area ends -------------*/
